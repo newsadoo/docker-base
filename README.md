@@ -1,1 +1,1 @@
-# openjdk8-alpine
+#NEWSADOO docker-base
